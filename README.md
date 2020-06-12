@@ -4,7 +4,7 @@ a place where we can post & collab on all the practice problems worked on in the
 
 - feel free to include any files of your code solutions/progress
 - ask questions in our <a href="https://github.com/orgs/CP-advanced/teams/observers/discussions">dicussion tab</a> of the team
-- all problems covered in the advanced group will be posted <i>in this repo's wiki</i>
+- all problems covered in the advanced group will be posted in this repo's <a href="https://github.com/CP-advanced/practice-problems/wiki">wiki</a>
 - use this to increase your github activity! :)
 
 <strong>posting a solution?</strong>
