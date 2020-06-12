@@ -9,7 +9,7 @@ a place where we can post & collab on all the practice problems worked on in the
 
 <strong>posting a solution?</strong>
 
-- preface it with your initials (e.g. ap-reverse-linked-list or ap_reverseLinkedList or apReverseLinkedList, or whatever you want)
+- preface it with your initials (e.g. ap-reverse-linked-list or ap_reverseLinkedList or apReverseLinkedList, or whatever you want) so not all files are named the same
 - post any questions/concerns with the code problem in the discussion tab 
 - update and delete files as many times as you'd like
 
