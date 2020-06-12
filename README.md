@@ -1,6 +1,6 @@
-# practice-problems
+# welcome to cp-advanced practice problems :)
 what's this?
-all the practice problems worked on in the advanced course
+a place where we can post & collab on all the practice problems worked on in the advanced course
 
 - feel free to include any files of your code solutions/progress
 - ask questions in the dicussion tab of the group
