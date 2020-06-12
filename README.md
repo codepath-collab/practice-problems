@@ -4,7 +4,7 @@ a place where we can post & collab on all the practice problems worked on in the
 
 - feel free to include any files of your code solutions/progress
 - ask questions in the dicussion tab of the group
-- problems covered in the advanced group will be posted within the file associated with that week
+- all problems covered in the advanced group will be posted within the file associated with that week
 - use this to increase your github activity! :)
 
 <strong>posting a solution?</strong>
