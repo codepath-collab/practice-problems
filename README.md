@@ -4,7 +4,7 @@ a place where we can post, collab, & <u>help</u> each other on any practice prob
 
 - feel free to include any files of your code solutions/progress
 - ask questions in our <a href="https://github.com/orgs/CP-advanced/teams/observers/discussions">dicussion tab</a> of the team
-- all problems covered in the advanced group will be posted in this repo's <a href="https://github.com/CP-advanced/practice-problems/wiki">wiki</a>
+- all problems covered in the advanced group are posted in the <a href="https://courses.codepath.com/courses/advanced_software_eng/pages/bootcamp_structure">codepath course</a>
 - use this to increase your github activity! :)
 
 <strong>posting a solution?</strong>
