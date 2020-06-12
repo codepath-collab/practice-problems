@@ -1,6 +1,6 @@
 # welcome to cp-advanced practice problems :)
 <strong>what's this?</strong>
-a place where we can post & collab on all the practice problems worked on in the advanced course
+a place where we can post, collab, & <u>help</u> each other on any practice problems worked on in the advanced course
 
 - feel free to include any files of your code solutions/progress
 - ask questions in our <a href="https://github.com/orgs/CP-advanced/teams/observers/discussions">dicussion tab</a> of the team
