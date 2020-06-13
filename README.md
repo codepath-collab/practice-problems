@@ -1,6 +1,6 @@
 # welcome to cp-advanced practice problems :)
 <strong>what's this?</strong>
-a place where we can post, collab, & <u>help</u> each other on any practice problems worked on in the advanced course
+a place where we can post, collab, & <u>help</u> each other on any practice problems worked on in the advanced course. this is completely self paced, we want to encourage one another to understand these concepts and always try to help someone out!
 
 - feel free to include any files of your code solutions/progress
 - ask questions in our <a href="https://github.com/orgs/CP-advanced/teams/observers/discussions">dicussion tab</a> of the team
@@ -11,7 +11,7 @@ a place where we can post, collab, & <u>help</u> each other on any practice prob
 
 - navigate to the week where the solution you're posting belongs 
 - preface it with your initials (e.g. ap-reverse-linked-list or ap_reverseLinkedList or apReverseLinkedList, or whatever you want) so not all files are named the same
-- remember, post any questions/concerns with the code problem in the <a href="https://github.com/orgs/CP-advanced/teams/observers/discussions">dicussion tab</a>
+- remember, post any questions/concerns with the code problem in the <a href="https://github.com/orgs/CP-advanced/teams/observers/discussions">dicussion tab</a>, you never know if someone is confused about the same thing!
 - posting a solution for a week not shown yet? click create new file and type in "weekX/" where X is the week #, then the name of your file
 - update and delete files as many times as you'd like
 - commit your file with a message if you'd like!
