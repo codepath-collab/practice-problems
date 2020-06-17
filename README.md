@@ -2,7 +2,7 @@
 <strong>what's this?</strong>
 a place where we can post, collab, & <u>help</u> each other on any practice problems worked on in the advanced course. this is completely self paced, we want to encourage one another to understand these concepts and always try to help someone out!
 
-- feel free to include any files of your code solutions/progress
+- feel free to include any files of your code solutions/progress in <strong>any</strong> language
 - ask questions in our <a href="https://github.com/orgs/CP-advanced/teams/observers/discussions">dicussion tab</a> of the team
 - all problems covered in the advanced group are posted in the <a href="https://courses.codepath.com/courses/advanced_software_eng/pages/bootcamp_structure">codepath course</a>
 - use this to increase your github activity! :)
