@@ -22,7 +22,7 @@ class Solution {
         int len = 1;
 
         while (current.next != null) {
-            // caculate length of the list
+            // calculate length of the list
             len++;
             current = current.next;
         }
@@ -31,7 +31,7 @@ class Solution {
         current.next = head;
 
         if (k > len) {
-            // caculate how many items in the list we should move backwards
+            // calculate how many items in the list we should move backwards
             k %= len;
         }
 
