@@ -1,0 +1,45 @@
+class Solution {
+    public ListNode reverseList(ListNode head) {
+        ListNode temp = new ListNode();
+        ListNode newHead = temp;
+        int counter = 0, length = getLength(head), reverse;
+        int[] reversedList = new int[length];
+        
+        // edge case
+        if (head == null)
+            return null;
+        
+        // storing values in the array
+        while (head != null) {
+            reversedList[counter] = head.val;
+            head = head.next;
+            counter++;
+        }
+        
+        reverse = --length;
+        
+        while (reverse >= 0) {
+            temp.val = reversedList[reverse];
+            
+            if (reverse != 0) {
+                temp.next = new ListNode();
+                temp = temp.next;  
+            }
+            
+            --reverse;
+        }
+
+        return newHead;
+    }
+    
+    public static int getLength (ListNode head) {
+        int length = 0;
+        
+        while (head != null) {
+            ++length;
+            head = head.next;
+        }
+        
+        return length;
+    }
+}
