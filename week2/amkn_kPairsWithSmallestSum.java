@@ -2,8 +2,8 @@ class Solution {
     public List<List<Integer>> kSmallestPairs(int[] nums1, int[] nums2, int k) {
         int queueSize = nums1.length*nums2.length;
         
-         if (queueSize == 0) {
-            return new ArrayList<List<Integer>>();
+        if (queueSize == 0) {
+        	return new ArrayList<List<Integer>>();
         }
         
         
@@ -12,13 +12,13 @@ class Solution {
         }
         
         Comparator<Pair> sumCompare = (Pair p1, Pair p2) -> (p1.getSum() - p2.getSum());
-	      PriorityQueue<Pair> sums = new PriorityQueue<>(queueSize, sumCompare);
+	PriorityQueue<Pair> sums = new PriorityQueue<>(queueSize, sumCompare);
 
-	      for (int i = 0; i < nums1.length; i++) {
-	        int current = nums1[i];
+	for (int i = 0; i < nums1.length; i++) {
+		int current = nums1[i];
 	        
-          for (int j = 0; j < nums2.length; j++) {
-		        sums.add(new Pair(current, nums2[j]));
+          	for (int j = 0; j < nums2.length; j++) {
+			sums.add(new Pair(current, nums2[j]));
 	        }
 	    }
 
@@ -54,5 +54,3 @@ class Pair {
 	    return toReturn;
     }
 }
-
-
