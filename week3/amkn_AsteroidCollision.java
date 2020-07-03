@@ -2,11 +2,6 @@ import java.util.*;
 
 class Solution {
 
-    // 2, -1, 1, -2
-    // i = 0, {2}
-    // i = 1, {2}
-    // i = 2, {2, 1}
-    // i = 3, {}
     public int[] asteroidCollision(int[] asteroids) {
 	Stack<Integer> stable = new Stack<>();
 
