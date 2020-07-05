@@ -2,13 +2,6 @@ import java.util.*;
 
 class Solution {
 
-    // [73, 74, 75, 71, 69, 72, 76, 73]
-    // i = 7, {}, 0
-    // i = 6, {76}, 0
-    // i = 5, {76, 72}, 1
-    // i = 4, {76, 72, 69}, 1
-    // i = 3, {76, 72, 71}, 2
-    // i = 2, {
     public int[] dailyTemperatures(int[] T) {
 	int len = T.length;
 	int[] result = new int[len];
